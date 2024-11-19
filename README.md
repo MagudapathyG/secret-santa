@@ -10,15 +10,15 @@ This Python application automates the Secret Santa assignment process for employ
 ## Installation
 1. Clone the repository:
 
-git clone https://github.com/your-username/secret-santa.git
+ git clone https://github.com/MagudapathyG/secret-santa.git
 
 2. Navigate to the project directory:
 
-cd secret-santa
+ cd secret-santa
 
 3. Install dependencies:
 
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
 
 ## Usage
@@ -27,8 +27,8 @@ pip install -r requirements.txt
 
 2. Run the program:
 
-python main.py
+ python main.py
 
 3. Run the tests with:
 
-python -m unittest discover tests
+ python -m unittest discover tests
