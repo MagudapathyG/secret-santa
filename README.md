@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Prepare `Excel_files\Employee-List.xlsx` and `Secret-Santa-Game-Result-2023.xlsx`.
+1. Prepare `Employee-List.xlsx` and `Secret-Santa-Game-Result-2023.xlsx`.
 
 2. Run the program:
 
